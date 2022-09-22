@@ -21,5 +21,7 @@ public class Main {
         System.out.println("Вес получившегося блюда в граммах составляет " + totalWeightOfTheDish + " в граммах, или " + (totalWeightOfTheDish / gramsPerKilogram) + " в килограммах");
 
         //task 6 complete
+
+
     }
 }
